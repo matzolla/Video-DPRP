@@ -1,1 +1,1 @@
-# Video-DPRP
+# Video-DPRP [ECML-PKDD2025]
